@@ -1,0 +1,9 @@
+{
+    "API_KEY": "demo",
+    "API_URL": "https://www.alphavantage.co/query?function=CRYPTO_RATING&symbol=BTC&apikey=",
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT":6666 ,
+    "REDIS_PWD": "",
+    "PORT": 3000
+}
+
